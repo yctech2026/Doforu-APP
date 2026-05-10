@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://doforu.app/en"><img src="https://img.shields.io/badge/Website-Download-blue.svg" alt="Download"></a>
+  <a href="https://www.doforu.ai/en"><img src="https://img.shields.io/badge/Website-Download-blue.svg" alt="Download"></a>
   <img src="https://img.shields.io/badge/version-3.5.0-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/macOS-Supported-000000?logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/Windows-Supported-0078D6?logo=windows&logoColor=white" alt="Windows">
@@ -36,7 +36,7 @@
 
 No prompt engineering. No tool switching. The main Agent dynamically assembles sub-Agents to work simultaneously — automatically dividing labor, collaborating, and delivering.
 
-> **[Watch Demo](https://doforu.app/demo)**
+> **[Watch Demo](https://www.doforu.ai/demo)**
 
 <p align="center">
   <img src="./assets/screenshot.png" alt="Doforu Main Interface" width="720"/>
@@ -87,7 +87,7 @@ No prompt engineering. No tool switching. The main Agent dynamically assembles s
 
 **Method 1: Official Website (Recommended)**
 
-1. Visit [doforu.app/en](https://doforu.app/en)
+1. Visit [www.doforu.ai/en](https://www.doforu.ai/en)
 2. Click "Download Now" and select your system version
 3. Install and launch the app
 
@@ -139,7 +139,7 @@ After task completion, results are fully presented in the conversation stream:
 - **Screenshot Save** — Hover over any AI response, click the bottom-right button to save that reply as a PNG
 - **Keep Iterating** — Send new instructions directly in the bottom input box to refine based on current context or start a new task
 
-**Try it now 👉 [doforu.app/en](https://doforu.app/en)**
+**Try it now 👉 [www.doforu.ai/en](https://www.doforu.ai/en)**
 
 ## Plans & Pricing
 
@@ -152,7 +152,7 @@ After task completion, results are fully presented in the conversation stream:
 | MCP Connections | 1 | Unlimited |
 | Context Compression | Delayed trigger | Proactive optimization |
 
-Pro pricing: [doforu.app/pricing](https://doforu.app/pricing)
+Pro pricing: [www.doforu.ai/pricing](https://www.doforu.ai/pricing)
 
 ## System & Models
 
@@ -168,11 +168,11 @@ Pro pricing: [doforu.app/pricing](https://doforu.app/pricing)
 
 ## Get Help
 
-- [Documentation](https://doforu.app/docs) — Self-service
+- [Documentation](https://www.doforu.ai/docs) — Self-service
 - [GitHub Issues](https://github.com/yctech2026/Doforu-APP/issues) — Bug reports & feature requests
 - WeCom / DingTalk — Enterprise support within 4 hours
 
-[Create Issue](https://github.com/yctech2026/Doforu-APP/issues) · [Changelog](https://doforu.app/changelog)
+[Create Issue](https://github.com/yctech2026/Doforu-APP/issues) · [Changelog](https://www.doforu.ai/changelog)
 
 ## FAQ
 
@@ -193,7 +193,7 @@ Pro pricing: [doforu.app/pricing](https://doforu.app/pricing)
   Orchestrator pure-coordinator mode is live, supporting `fast`/`extreme` dual-type SubAgent parallel execution with SSE real-time progress streaming.
 
 - **2026.06 — Pro Plan Official Launch**  
-  Quota management and machine-code licensing infrastructure are ready. Pro will unlock higher daily quotas, unlimited Skills, and proactive context compression.
+  Quota management and machine-code licensing infrastructure are ready. Pro will unlock higher daily quotas and other advanced features.
 
 - **2026.Q3 — Team Workspaces & Shared Skills**  
   Skills already support local directory management and Claude Code-compatible formats. The Team plan will open workspace collaboration and Skills sharing.

@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://doforu.app/zh"><img src="https://img.shields.io/badge/官网-立即下载-blue.svg" alt="Download"></a>
+  <a href="https://www.doforu.ai/zh"><img src="https://img.shields.io/badge/官网-立即下载-blue.svg" alt="Download"></a>
   <img src="https://img.shields.io/badge/version-3.5.0-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/macOS-支持-000000?logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/Windows-支持-0078D6?logo=windows&logoColor=white" alt="Windows">
@@ -36,7 +36,7 @@
 
 无需 Prompt 工程，无需切换工具。主 Agent 动态召集子 Agent 同时开工，自动分工、协作、交付。
 
-> **[观看演示](https://doforu.app/demo)**
+> **[观看演示](https://www.doforu.ai/demo)**
 
 <p align="center">
   <img src="./assets/screenshot.png" alt="Doforu 主界面" width="720"/>
@@ -87,7 +87,7 @@
 
 **方式一：官网（推荐）**
 
-1. 访问 [doforu.app/zh](https://doforu.app/zh)
+1. 访问 [www.doforu.ai/zh](https://www.doforu.ai/zh)
 2. 点击「立即下载」，选择对应系统版本
 3. 安装并启动应用
 
@@ -139,7 +139,7 @@
 - **截图保存** — 悬停在任意 AI 回复上，点击右下角按钮可将该回复保存为 PNG 图片
 - **继续迭代** — 直接在底部输入框发送新指令，基于当前上下文继续优化或开启新任务
 
-**现在就去试试吧 👉 [doforu.app/zh](https://doforu.app/zh)**
+**现在就去试试吧 👉 [www.doforu.ai/zh](https://www.doforu.ai/zh)**
 
 ## 版本与定价
 
@@ -152,7 +152,7 @@
 | MCP 连接数 | 1 个 | 无限 |
 | 上下文压缩 | 延迟触发 | 主动优化 |
 
-Pro 版定价：[doforu.app/pricing](https://doforu.app/pricing)
+Pro 版定价：[www.doforu.ai/pricing](https://www.doforu.ai/pricing)
 
 ## 系统与模型
 
@@ -168,11 +168,11 @@ Pro 版定价：[doforu.app/pricing](https://doforu.app/pricing)
 
 ## 获取帮助
 
-- [文档中心](https://doforu.app/docs) — 即时自助
+- [文档中心](https://www.doforu.ai/docs) — 即时自助
 - [GitHub Issues](https://github.com/yctech2026/Doforu-APP/issues) — 问题反馈与功能建议
 - 企业微信 / 钉钉 — 企业版 4 小时内
 
-[创建 Issue 提交反馈](https://github.com/yctech2026/Doforu-APP/issues) · [更新日志](https://doforu.app/changelog)
+[创建 Issue 提交反馈](https://github.com/yctech2026/Doforu-APP/issues) · [更新日志](https://www.doforu.ai/changelog)
 
 ## 常见问题
 
@@ -193,7 +193,7 @@ Pro 版定价：[doforu.app/pricing](https://doforu.app/pricing)
   Orchestrator 纯协调者模式已落地，支持 `fast`/`extreme` 双类型 SubAgent 并行执行，SSE 实时推送子代理进度与耗时统计。
 
 - **2026.06 — Pro 版正式上线**  
-  额度管控与机器码授权等基础设施已就绪，Pro 版将解锁更高日额度、无限 Skills、主动上下文压缩等高级能力。
+  额度管控与机器码授权等基础设施已就绪，Pro 版将解锁更高日额度等高级能力。
 
 - **2026.Q3 — 团队工作区、共享 Skills**  
   Skills 已支持本地目录管理与 Claude Code 兼容格式，团队版将开放工作区协作与 Skills 共享。
