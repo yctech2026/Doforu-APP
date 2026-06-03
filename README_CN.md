@@ -1,5 +1,5 @@
 <p align="center">
-  🌐 <a href="https://doforu.ai/zh"><b>doforu.ai</b></a>
+  👉 <a href="https://doforu.ai/zh"><b>doforu.ai</b></a>
 </p>
 
 <p align="center">
