@@ -1,5 +1,8 @@
 <p align="center">
-  🌐 <a href="https://www.doforu.ai/en"><b>www.doforu.ai</b></a> &nbsp;|&nbsp;
+  🌐 <a href="https://doforu.ai/en"><b>doforu.ai</b></a>
+</p>
+
+<p align="center">
   <b>🇺🇸 English</b> · <a href="./README.md">🇨🇳 简体中文</a>
 </p>
 
