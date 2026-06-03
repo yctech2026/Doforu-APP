@@ -145,11 +145,11 @@ After task completion, results are fully presented in the conversation stream:
 
 | Capability | Free | Pro |
 |------------|------|-----|
-| **Complete Task Runs** | **15 / day** | **300 / day** |
+| **Complete Task Runs** | **20 / day** | **Unlimited** |
 | Plan Mode (Task Planning) | ✓ | ✓ |
 | Custom Skills | ✓ | Unlimited |
 | Long-term Memory | — | ✓ |
-| MCP Connections | 1 | Unlimited |
+| MCP Connections | 3 | Unlimited |
 | Context Compression | Delayed trigger | Proactive optimization |
 
 Pro pricing: [www.doforu.ai/pricing](https://www.doforu.ai/pricing)
@@ -178,7 +178,7 @@ Pro pricing: [www.doforu.ai/pricing](https://www.doforu.ai/pricing)
 
 ### How many runs per day on the Free plan?
 
-**15 complete task runs / day** — One run = a complete workflow from requirement to delivery.
+**20 complete task runs / day** — One run = a complete workflow from requirement to delivery.
 
 | What you can do daily | Equivalent to |
 |----------------------|---------------|
