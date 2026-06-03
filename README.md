@@ -191,17 +191,6 @@ Pro pricing: [www.doforu.ai/pricing](https://www.doforu.ai/pricing)
 | Produce **2–3** data analysis reports | Includes data cleaning + visualizations + insight summary |
 | Complete **3–5** technical research topics | Includes information search + multi-source comparison + solution evaluation |
 
-### What's on Doforu's roadmap?
-
-- **2026.04 — Multi-Agent Parallel Orchestration (Released)**  
-  Orchestrator pure-coordinator mode is live, supporting `fast`/`extreme` dual-type SubAgent parallel execution with SSE real-time progress streaming.
-
-- **2026.06 — Pro Plan Official Launch**  
-  Quota management and machine-code licensing infrastructure are ready. Pro will unlock higher daily quotas and other advanced features.
-
-- **2026.Q3 — Team Workspaces & Shared Skills**  
-  Skills already support local directory management and Claude Code-compatible formats. The Team plan will open workspace collaboration and Skills sharing.
-
 ## Enterprise
 
 Enterprise teams are welcome to inquire about procurement and custom partnerships. Please contact us — we will respond within 1 business day.
