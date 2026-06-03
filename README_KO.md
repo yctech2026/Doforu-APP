@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.doforu.ai/ko"><img src="https://img.shields.io/badge/Website-Download-blue.svg" alt="Download"></a>
-  <img src="https://img.shields.io/badge/version-3.6.0-blue.svg" alt="Version">
-  <img src="https://img.shields.io/badge/macOS-Supported-000000?logo=apple&logoColor=white" alt="macOS">
-  <img src="https://img.shields.io/badge/Windows-Supported-0078D6?logo=windows&logoColor=white" alt="Windows">
+  <a href="https://www.doforu.ai/ko"><img src="https://img.shields.io/badge/Website-다운로드-blue.svg" alt="다운로드"></a>
+  <img src="https://img.shields.io/badge/version-3.6.0-blue.svg" alt="버전">
+  <img src="https://img.shields.io/badge/macOS-지원-000000?logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/Windows-지원-0078D6?logo=windows&logoColor=white" alt="Windows">
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@
 
 필요에 따라 실행 방법을 선택하세요:
 
-| 모드 | 최적 사용场景 | 설명 |
+| 모드 | 최적 사용 사례 | 설명 |
 |------|----------|-------------|
 | **Plan** | 계획을 먼저 확인하고 싶을 때 | 요구사항 분석, 완전한 실행 청사진 출력 (단계, 도구 선택, 예상 시간). 확인 후 실행 |
 | **Agent** | 간단한 작업, 빠른 실행 | 단일 Agent로 직접 실행. 카피라이팅, 코드 스니펫, 간단한 질문에 적합 |
@@ -194,7 +194,7 @@ Pro 가격: [www.doforu.ai/pricing](https://www.doforu.ai/pricing)
 | **2~3**개의 데이터 분석 보고서 작성 | 데이터 정리 + 시각화 + 인사이트 요약 포함 |
 | **3~5**개의 기술 조사 주제 완료 | 정보 검색 + 다중 소스 비교 + 솔루션 평가 포함 |
 
-## Enterprise
+## 기업
 
 기업 팀의 구매 및 맞춤형 파트너십 문의를 환영합니다. 연락 주시면 1영업일 이내에 답변드리겠습니다.
 
