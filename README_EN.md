@@ -200,7 +200,7 @@ Pro pricing: [www.doforu.ai/pricing](https://www.doforu.ai/pricing)
 
 ## Enterprise
 
-Enterprise teams are welcome to inquire about procurement and custom partnerships. Please email **** — we will respond within 1 business day.
+Enterprise teams are welcome to inquire about procurement and custom partnerships. Please contact us — we will respond within 1 business day.
 
 ## License
 
