@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="./README_EN.md">🇺🇸 English</a> · <b>🇨🇳 Chinese</b>
+  <a href="./README.md">🇺🇸 English</a> · 
+  <b>🇨🇳 Chinese</b> · 
+  <a href="./README_JA.md">🇯🇵 日本語</a> · 
+  <a href="./README_KO.md">🇰🇷 한국어</a>
 </p>
 
 <p align="center">
