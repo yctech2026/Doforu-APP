@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="./README_EN.md">🇺🇸 English</a> · <b>🇨🇳 简体中文</b>
+  <a href="./README_EN.md">🇺🇸 English</a> · <b>🇨🇳 Chinese</b>
 </p>
 
 <p align="center">
